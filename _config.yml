@@ -20,7 +20,7 @@ title                    : "다시 쓰는 개발일기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Han Shin"
-description              : "개발자 일기장"
+description              : "'hash' in name"
 url                      : "https://ha7sh17.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
