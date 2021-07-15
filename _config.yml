@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt" #"default","air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -20,7 +20,7 @@ title                    : "다시 쓰는 개발일기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Han Shin"
-description              : "'hash' in name"
+description              : "Just woke up from the ice"
 url                      : "https://ha7sh17.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -70,19 +70,19 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
+#twitter:
+#  username               :
+#facebook:
+#  username               :
+#  app_id                 :
+#  publisher              :
+#og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+#social:
+#  type                   : # Person or Organization (defaults to Person)
+#  name                   : # If the user or organization name differs from the site's name
+#  links: # An array of links to social media profiles
 
 # Analytics
 analytics:
