@@ -117,7 +117,7 @@ author:
       url: "https://github.com/ha7sh17"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/hansh_in"
+      # url: "https://instagram.com/ha7sh17"
     - label: "Unsplash"
       icon: "fab fa-fw fa-unsplash"
       url: "https://unsplash.com/@ha7sh17"
