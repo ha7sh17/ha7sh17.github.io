@@ -118,6 +118,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/hansh_in"
+    - label: "Unsplash"
+      icon: "fab fa-fw fa-unsplash"
+      url: "https://unsplash.com/@ha7sh17"
 
 # Site Footer
 footer:
