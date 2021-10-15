@@ -1,6 +1,6 @@
 <hr>
 <tag>
-  <a href="/categories/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+  <a href="/categories-grid/" itemprop="sameAs" rel="nofollow noopener noreferrer">
     카테고리
   </a>
 </tag>
@@ -16,7 +16,7 @@
   {% for category in site.categories %}
     {% if category[1].size == i %}
       <ul style="padding-top: 0px; padding-bottom: 0px;">
-        <a href="/categories/#{{ category[0] | slugify }}">
+        <a href="/categories-grid/#{{ category[0] | slugify }}">
           <strong style="font-size: 15px;">{{ category[0] }}</strong> <span class="taxonomy__count" style="font-size: 13px;">{{ i }}</span>
         </a>
       </ul>
