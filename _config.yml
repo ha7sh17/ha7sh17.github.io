@@ -110,7 +110,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ha7sh17"
+      # url: "https://twitter.com/ha7sh17"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -122,7 +122,7 @@ author:
       # url: "https://instagram.com/ha7sh17"
     - label: "Unsplash"
       icon: "fab fa-fw fa-unsplash"
-      url: "https://unsplash.com/@ha7sh17"
+      # url: "https://unsplash.com/@ha7sh17"
 
 # Site Footer
 footer:
