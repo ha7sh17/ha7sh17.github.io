@@ -20,7 +20,7 @@
       <a href="{{ author.home | relative_url }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
     {% else %}
       <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
-      <h6 class="author__nickname" itemprop="nickname">{{ author.nickname }}</h6>
+      <div class="author__nickname" itemprop="nickname">{{ author.nickname }}</div>
     {% endif %}
     {% if author.bio %}
       <div class="author__bio" itemprop="description">
