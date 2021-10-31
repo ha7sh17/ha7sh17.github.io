@@ -1,5 +1,5 @@
 ---
-title: "백엔드 적응기 - 시작"
+title: "백엔드 적응기 - 시작하며"
 categories:
   - 백엔드 적응기
 tags:
