@@ -5,6 +5,7 @@ categories:
 tags:
   - 임베디드
   - 백엔드
+published: false  
 ---
 
 
